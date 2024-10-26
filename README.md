@@ -13,7 +13,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjsdjko&show_icons=true&theme=tokyonight)](http://jsxs1.cn)
 </div>
 
-点击此网址在线查看本项目视频： [http://www.jsxs1.cn](http://www.jsxs1.cn)
+点击此网址在线查看本项目视频： [http://www.jsxs1.cn](http://www.jsxs1.cn) 【在搜索栏目中输入关键字即可：比如你想要图书管理系统，可以在项目搜索框中只输入 “图书” 即可】
 
 **【🉑免费获取！！！】**
 
